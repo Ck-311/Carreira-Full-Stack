@@ -1,0 +1,2 @@
+primeiro git pull para poder trazer os dados remoto para depois eu poder fazer um git push para poder enviar os dados.
+obs: tenho que fazer git add e git commit -m
